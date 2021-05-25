@@ -1,0 +1,8 @@
+#ifndef ERROR_CODES_H
+#define ERROR_CODES_H
+
+#define ERROR_MALFORMED_MESSAGE     "BAD"
+#define ERROR_INCORRECT_LENGTH      "LEN"
+#define ERROR_INTERNAL_ERROR        "SRV"
+
+#endif
